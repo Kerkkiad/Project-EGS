@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.2 (Python 3.9.6 on darwin)" generated="2026-10-29T17:42:44.477750" rpa="false" schemaversion="5">
+<suite id="s1" name="Portfolio Sample" source="/Users/blue/Documents/GitHub/Project-EGS/testcase/browser/portfolio_sample.robot">
+<test id="s1-t1" name="TC01_001_CreateCM จองห้องประชุมส่วนกลาง กรอกข้อมูลจำเป็น ครบถ้วน" line="6">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-10-29T17:42:44.513543" level="INFO">SIMULATED RESULT ONLY — not executed against BOTEGS.</msg>
+<arg>SIMULATED RESULT ONLY — not executed against BOTEGS.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-10-29T17:42:44.513048" elapsed="0.000838"/>
+</kw>
+<doc>Simulated PASS record for portfolio layout; no browser or application was used.</doc>
+<tag>NOT-EXECUTED</tag>
+<tag>PORTFOLIO-SAMPLE</tag>
+<status status="PASS" start="2026-10-29T17:42:44.511211" elapsed="0.002921"/>
+</test>
+<test id="s1-t2" name="TC01_002_EditCM แก้ไขการจองห้องประชุมส่วนกลาง" line="11">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-10-29T17:42:44.515914" level="INFO">SIMULATED RESULT ONLY — not executed against BOTEGS.</msg>
+<arg>SIMULATED RESULT ONLY — not executed against BOTEGS.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-10-29T17:42:44.515384" elapsed="0.000811"/>
+</kw>
+<doc>Simulated PASS record for portfolio layout; no browser or application was used.</doc>
+<tag>NOT-EXECUTED</tag>
+<tag>PORTFOLIO-SAMPLE</tag>
+<status status="PASS" start="2026-10-29T17:42:44.514408" elapsed="0.001985"/>
+</test>
+<test id="s1-t3" name="TC01_003_ViewHitoryCM ดูประวัติการจองห้องประชุมส่วนกลาง" line="16">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-10-29T17:42:44.518059" level="INFO">SIMULATED RESULT ONLY — not executed against BOTEGS.</msg>
+<arg>SIMULATED RESULT ONLY — not executed against BOTEGS.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-10-29T17:42:44.517580" elapsed="0.000777"/>
+</kw>
+<doc>Simulated PASS record for portfolio layout; no browser or application was used.</doc>
+<tag>NOT-EXECUTED</tag>
+<tag>PORTFOLIO-SAMPLE</tag>
+<status status="PASS" start="2026-10-29T17:42:44.516629" elapsed="0.001929"/>
+</test>
+<test id="s1-t4" name="TC01_004_CancelCM ยกเลิกการจองห้องประชุมส่วนกลาง" line="21">
+<kw name="Log" owner="BuiltIn">
+<msg time="2026-10-29T17:42:44.520174" level="INFO">SIMULATED RESULT ONLY — not executed against BOTEGS.</msg>
+<arg>SIMULATED RESULT ONLY — not executed against BOTEGS.</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2026-10-29T17:42:44.519703" elapsed="0.000790"/>
+</kw>
+<doc>Simulated PASS record for portfolio layout; no browser or application was used.</doc>
+<tag>NOT-EXECUTED</tag>
+<tag>PORTFOLIO-SAMPLE</tag>
+<status status="PASS" start="2026-10-29T17:42:44.518795" elapsed="0.001900"/>
+</test>
+<doc>PORTFOLIO SAMPLE — simulated results for presentation only. These cases were not run against BOTEGS and do not represent production test evidence.</doc>
+<status status="PASS" start="2026-10-29T17:42:44.478747" elapsed="0.042449"/>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="4" fail="0" skip="0">NOT-EXECUTED</stat>
+<stat pass="4" fail="0" skip="0">PORTFOLIO-SAMPLE</stat>
+</tag>
+<suite>
+<stat name="Portfolio Sample" id="s1" pass="4" fail="0" skip="0">Portfolio Sample</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
